@@ -1,6 +1,8 @@
 # Mitre
 
-TODO: Write a gem description
+Mitre is a swiss army knife rails plugin for adding fun things to markdown text.
+
+Crams together things for convenience when formatting text for your average Internet forum. It extends markdown with fun things.
 
 ## Installation
 
@@ -27,3 +29,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Wanted/Coming/When I Get Time
+
+* Code highlighting with multi-language support.
+* Emoji (gemoji support+, as a sprite ++)
+* Convenient links for common things like github commits.
